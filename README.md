@@ -3,6 +3,22 @@ A social media platform that's not about influencers,  popularity, brands, opini
 
 # Personal problem: What am I facing?
 
+These are some of the things I have personally noticed social media becoming over time:
+
+* Addictive scrolling
+* Personalized recommendation
+* Social metrics
+* Pressure to maintain an identity
+* Inauthenticity
+* Attention seeking
+* Information overload
+* Commercialization
+* FOMO
+* Loss of Spontaneity
+* Permanent digital footprints
+* Loss of simplicity
+* Need for engagement 
+
 # Goal: What do I want to achieve?
 
 # Solution: How do I achieve the goal?
