@@ -21,6 +21,38 @@ These are some of the things I have personally noticed social media becoming ove
 
 # Goal: What do I want to achieve?
 
+* Authenticity
+* Simplicity
+* Spontaneity
+* Anonymity
+* Privacy
+* Equality
+* Human connection
+* Emotional connection
+* Genuine moments
+* Visual storytelling
+* Natural photography
+* Minimalism
+* Calmness
+* Low stimulation
+* Mindful engagement
+* Limit screen time
+* No obligations
+* No social pressure
+* No competition
+* No popularity metrics
+* No algorithms
+* Random discovery
+* Curiosity
+* Playful interaction
+* Anticipation
+* Temporary content
+* Digital impermanence
+* Voluntary participation
+* Non-commercialization
+* Happy community
+* Imperfection
+
 # Solution: How do I achieve the goal?
 
 # Timeline: What should I accomplish each day?
